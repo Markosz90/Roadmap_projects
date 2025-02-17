@@ -1,0 +1,30 @@
+body {
+  margin: 10px;
+  padding: 30px 20px 30px 80px;
+  border: 3px solid black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+  width: 75%;
+}
+hr {
+  text-align: left;
+  margin-left: 0px;
+  border-width: 2px;
+  border-color:black; 
+}
+
+h2 {
+  color:green;
+  text-decoration: underline;
+  font-weight: 300;
+}
+
+h3 {
+  color: #10A0FF;
+  font-weight: 500;
+}
+
+p {
+  font-weight: 500;
+}
